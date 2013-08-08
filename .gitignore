@@ -1,0 +1,8 @@
+*.o
+*.yy.c
+*.tab.c
+*.tab.h
+*.pyc
+./target
+./test
+*.out
