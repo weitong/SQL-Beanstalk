@@ -90,7 +90,7 @@ set_content(st_node **node, int_32 line, char *name, int_32 id, int_32 rule)
 %token <node_type> CHARACTER_SET
 
 
-/* some teradate tokens */
+/* */
 %token <node_type> SQL_VBAR_VBAR
 %token <node_type> TD_EXIT
 %token <node_type> COLLECT 
@@ -122,7 +122,7 @@ set_content(st_node **node, int_32 line, char *name, int_32 id, int_32 rule)
 %type <node_type> DataBaseCommand
 
 
-/* some teradate grammar nodes */
+/* some grammar nodes */
 %type <node_type> td_trans_date_time
 %type <node_type> OptCasespecific
 %type <node_type> relation_expr_opt_alias_list
