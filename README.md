@@ -1,11 +1,11 @@
-# SQL Beans #
-**SQL Beans** is a simplified framework for SQL Analysis tools.
+# SQL Beantalk #
+**SQL Beantalk** is a simplified framework for SQL Analysis tools.
 
 
 ## About ##
 
 ---------------------------
-SQL Beans is a simplified framework for SQL Analysis tools. We extend the PostgreSQL Grammar in our work.
+SQL Beantalk is a simplified framework for SQL Analysis tools. We extend the PostgreSQL Grammar in our work.
 
 ## How To Build ##
 
@@ -35,4 +35,4 @@ SQL Beans is a simplified framework for SQL Analysis tools. We extend the Postgr
 ## License ##
 
 ---------------------------
-**SQL Beans** is released under the PostgreSQL License, a liberal Open Source license, similar to the BSD or MIT licenses.
+**SQL Beantalk** is released under the PostgreSQL License, a liberal Open Source license, similar to the BSD or MIT licenses.
