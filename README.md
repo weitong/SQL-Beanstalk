@@ -1,11 +1,11 @@
-# SQL Beantalk #
-**SQL Beantalk** is a simplified framework for SQL Analysis tools.
+# SQL Beanstalk #
+**SQL Beanstalk** is a simplified framework for SQL Analysis tools.
 
 
 ## About ##
 
 ---------------------------
-SQL Beantalk is a simplified framework for SQL Analysis tools. We extend the PostgreSQL Grammar in our work.
+SQL Beanstalk is a simplified framework for SQL Analysis tools. We extend the PostgreSQL Grammar in our work.
 
 ## How To Build ##
 
@@ -35,4 +35,4 @@ SQL Beantalk is a simplified framework for SQL Analysis tools. We extend the Pos
 ## License ##
 
 ---------------------------
-**SQL Beantalk** is released under the PostgreSQL License, a liberal Open Source license, similar to the BSD or MIT licenses.
+**SQL Beanstalk** is released under the PostgreSQL License, a liberal Open Source license, similar to the BSD or MIT licenses.
